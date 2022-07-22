@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Yeji%20Kim&color=F8F9D7&fontColor=6E85B7)
 
 ## :raising_hand: About Me
-  :mortar_board: Sookmyung Women's University ConsumerEconomics & IT </br>
-   Interested in Data Analyst and Data Marketing
+  :mortar_board: Sookmyung Women's University Consumer Economics & IT Engineering </br>
+  :bulb: Interested in Data Analyst and Data Marketing
    
 </br>
 
