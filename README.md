@@ -2,8 +2,9 @@
 
 ## :raising_hand: About Me
   :mortar_board: Sookmyung Women's University Consumer Economics & IT Engineering </br>
-  :bulb: Interested in Data Analyst and Data Marketing
-   
+  :bulb: Interested in Data Analyst and Data Marketing 
+  
+![ji-0630's github stats](https://github-readme-stats.vercel.app/api?username=ji-0630&show_icons=true)   
 </br>
 
 ## :computer: Tech Stack
