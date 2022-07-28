@@ -10,7 +10,7 @@
 ## :computer: Tech Stack
 <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/-SQLite-003B57?style=plastic&logo=SQLite&logoColor=white"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-0630&layout=compact)](https://github.com/ji-0630/github-readme-stats)
 
