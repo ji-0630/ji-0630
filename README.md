@@ -11,6 +11,9 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 
 ### Project
+* [졸업프로젝트-Greenairy](http://github.com/ji-0630/GraduateProject-Greenairy)
+: 식물 추천 및 식물 일기를 작성할 수 있는 안드로이드 어플 개발
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-0630&layout=compact)](https://github.com/ji-0630/github-readme-stats)
 
@@ -57,7 +60,7 @@
 </br>
 
 ## :telephone_receiver: Contact me
-:email: yeji7552@naver.com
+:email: <yeji7552@naver.com>
 
 <!---
 ji-0630/ji-0630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
