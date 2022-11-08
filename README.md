@@ -13,6 +13,10 @@
 ### Project
 * [학부 졸업프로젝트-Greenairy](http://github.com/ji-0630/GraduateProject-Greenairy)
 : 식물 추천 및 식물 일기를 작성할 수 있는 안드로이드 어플 개발
+* [데이터크리에이트캠프2022]
+: 이미지 EDA 및 전처리, 이미지 분류(autoencoding & knn, image detection), CNN 모델 구축(Resnet18, Vgg16)
+* [넘블챌린지-중소기업 휴폐업 예측 모델]
+: 중소기업 휴폐업 예측 모델 구축
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-0630&layout=compact)](https://github.com/ji-0630/github-readme-stats)
