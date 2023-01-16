@@ -3,8 +3,7 @@
 ## :raising_hand: About Me
   :mortar_board: Bachelor of Consumer Economics & IT Engineering </br>
   :bulb: Interested in Data Analyst and Data Marketing 
-  
-![ji-0630's github stats](https://github-readme-stats.vercel.app/api?username=ji-0630&show_icons=true)   
+   
 </br>
 
 ## :computer: Main Tech Stack
@@ -16,11 +15,7 @@
 * [데이터크리에이트캠프2022](http://github.com/ji-0630/2022_DataCreateCamp)
 : 이미지 EDA 및 전처리, 이미지 분류(autoencoding & knn, image detection), CNN 모델 구축(Resnet18, Vgg16)
 * [넘블챌린지-중소기업 휴폐업 예측 모델](http://github.com/ji-0630/NUMBLE-Challenge)
-
 : 중소기업 휴폐업 예측 모델 구축
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-0630&layout=compact)](https://github.com/ji-0630/github-readme-stats)
 
 </br>
 
